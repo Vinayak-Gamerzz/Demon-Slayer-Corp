@@ -1,0 +1,90 @@
+body {
+
+    text-align: center;
+    background: linear-gradient(
+        180deg,
+        #061a2b,
+        #0d2b45,
+        #102d52,
+        #061a2b
+    );
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+
+.title {
+
+    color:white
+
+}
+
+.Giyu {
+
+    width: 365px;
+
+}
+
+.h-abt {
+
+    color:lightblue;
+
+}
+
+.h-p {
+
+    color:aquamarine;
+
+}
+
+.a-h {
+
+    color:white;
+    margin-top: 100px;
+
+}
+
+.a-h4 {
+
+    color:lightblue;
+
+}
+
+.b-h {
+
+    color:white;
+    margin-top: 50px;
+
+}
+
+.b-li {
+
+    color: aqua;
+
+}
+
+.ap-h {
+
+    color: white;
+    margin-top: 50px;
+
+}
+
+.ap-h4 {
+
+    color:rgb(127, 213, 185)
+
+}
+
+.p-h {
+
+    color: white;
+    margin-top: 50px;
+
+}
+
+.p-h4 {
+
+    color: rgb(0, 119, 255);
+
+}
