@@ -1,0 +1,230 @@
+body{
+    background: linear-gradient(
+        180deg,
+        #983ef1 0%,
+        #8011b8 35%,
+        #9d00ff 70%,
+        #640784 100%
+    );
+    color: #FDF6E3;
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    
+
+}
+
+.Shinobu {
+
+    width: 350px;
+
+}
+
+.h-h4 {
+
+    color:rgb(255, 179, 0)
+
+}
+
+h4 {
+
+    font-size: 20px;;
+
+}
+
+.h-p {
+
+    color:rgb(255, 196, 0);
+
+}
+
+.a-h4 {
+
+    color: #ea8016;
+
+}
+
+.a {
+
+    margin-top: 50px;
+    color:white;
+
+}
+
+.b {
+
+    margin-top: 50px;
+    color: white;
+
+}
+
+.b-li {
+
+    color:#c0aeff;
+
+}
+
+li {
+
+    width: fit-content;
+    margin: 20px auto;
+    text-align: left;
+
+}
+
+.c {
+
+    color:white;
+    margin-top: 50px;
+
+}
+
+.c-h4 {
+
+    color:#db0fff
+
+}
+
+.d {
+
+    margin-top: 50px;
+    color:white;
+
+}
+
+.d-h4 {
+
+    color:#df7eff
+
+}
+
+.e {
+
+    margin-top: 50px;
+    color: white;
+
+}
+
+.e-h4 {
+
+    color:#33ff66
+
+}
+
+.f {
+
+    margin-top: 50px;
+    color:white;
+
+}
+
+.f-li {
+
+    color:#46ff31;
+
+}
+
+.g {
+
+    margin-top: 50px;
+    color:white;
+
+}
+
+.Shinobu_Nichirin {
+
+    width: 350px;
+
+}
+
+.g-li {
+
+    color:#e5ff50;
+
+}
+
+.h {
+
+    color: white;
+    margin-top: 50px;
+
+}
+
+.h-li {
+
+    color:#e1b91b
+
+}
+
+.i {
+
+    color:white;
+    margin-top: 50px;
+
+}
+
+.i-h3 {
+
+    margin-top: 20px;
+    color:#ef24ef;
+
+}
+
+.i-h4 {
+
+    color:#df57eb;
+
+}
+
+.j {
+
+    color:white;
+    margin-top: 50px;
+
+}
+
+.j-h3 {
+
+    color:#c236ec;
+    margin-top: 20px;
+    font-size: 22px;
+
+}
+
+.j-h4 {
+
+    color:#d9abef;
+
+}
+
+.k {
+
+    color:white;
+    margin-top: 50px;
+
+}
+
+.k-li {
+
+    color:#efb7ff;
+
+}
+
+footer {
+
+    margin-top: 50px;
+
+}
+
+.legacy {
+
+    margin-top: 50px;
+    color: white;
+
+}
+
+.l-h4 {
+
+    color:#ea8016
+
+}
