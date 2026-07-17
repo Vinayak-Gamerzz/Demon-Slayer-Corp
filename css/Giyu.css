@@ -4,8 +4,8 @@ body {
     background: linear-gradient(
         180deg,
         #061a2b,
-        #0d2b45,
-        #102d52,
+        #11416b,
+        #1e59a7,
         #061a2b
     );
     max-width: 1200px;
@@ -21,7 +21,7 @@ body {
 
 .Giyu {
 
-    width: 365px;
+    width: 360px;
 
 }
 
@@ -86,5 +86,123 @@ body {
 .p-h4 {
 
     color: rgb(0, 119, 255);
+
+}
+
+.f-h {
+
+    color: white;
+    margin-top: 50px;
+
+}
+
+.f-h4 {
+
+    color: red;
+
+}
+
+h4 {
+
+    font-size: 20px;
+
+}
+
+.w-h {
+
+    color: white;
+    margin-top: 50px;
+
+}
+
+li {
+
+    width: fit-content;
+    margin: 20px auto;
+    text-align: left;
+
+}
+
+.n-h {
+
+    color: white;
+    margin-top: 50px;
+
+}
+
+.Giyu_Katana {
+
+    width:350px;
+
+}
+
+.ab-li {
+
+    color:rgb(170, 235, 235)
+
+}   
+
+.n-li {
+
+    color:oklch(81.283% 0.13265 194.9)
+
+}
+
+.ab-h {
+
+    color:white;
+    margin-top: 50px;
+
+}
+
+.m-h {
+
+    color: white;
+    margin-top: 50px;
+
+}
+
+.m-li {
+
+    color: rgb(227, 23, 23)
+
+}
+
+.r-h {
+
+    color: white;
+    margin-top: 50px;
+
+}
+
+.r-h3 {
+
+    color:#1e59a7;
+    margin-top: 20px;
+
+}
+
+.r-p {
+
+    color:rgb(84, 155, 236)
+
+}
+
+.t-h {
+
+    color: white;
+    margin-top: 50px;
+
+}
+
+.t-li {
+
+    color: rgb(58, 58, 255);
+
+}
+
+footer {
+
+    color: white;
 
 }
