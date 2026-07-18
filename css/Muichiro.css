@@ -1,0 +1,145 @@
+body {
+
+    text-align: center;
+    background: linear-gradient(
+        180deg,
+        #6bb9fe,
+        #5b8ab3,
+        #97c4ff,
+        #3078b7
+    );
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+
+li {
+
+    width: fit-content;
+    margin: 20px auto;
+    text-align: left;
+    font-size: 18px;
+
+}
+
+h1 {
+
+    color:white;
+
+}
+
+.Muichiro {
+
+    width:350px;
+
+}
+
+h4 {
+
+    font-size: 20px;
+
+}
+
+h3 {
+
+    font-size: 22px;
+
+}
+
+.h-h3 {
+
+    color:rgb(0, 99, 99);
+    margin-top: 35px;
+
+}
+
+.h-p {
+
+    color:beige
+
+}
+
+h2 {
+
+    color:white;
+    margin-top: 50px;
+
+}
+
+.a-h4 {
+
+    color:#3030b7   
+
+}
+
+.b-li {
+
+    color:brown
+
+}
+
+.c-h4 {
+
+    color:rgb(95, 240, 245)
+
+}
+
+.d-h4 {
+
+    color:darkred
+
+}
+
+.e-h4 {
+
+    color:darkblue
+
+}
+
+.f-li {
+
+    color:darkmagenta
+
+}
+
+.Muichiro-Nichirin {
+
+    width: 400px;
+
+}
+
+.g-li {
+
+    color:rgb(14, 86, 167)
+
+}
+
+.h-li {
+
+    color:mediumblue
+
+}
+
+.i-h4 {
+
+    color:rgb(143, 59, 143)
+
+}
+
+.j-h3 {
+
+    color:rgb(170, 58, 38);
+
+}
+
+.j-h4 {
+
+    color:crimson
+
+}
+
+.k-li {
+
+    color:rgb(130, 30, 0)
+
+}
