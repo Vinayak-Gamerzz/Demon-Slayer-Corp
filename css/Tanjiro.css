@@ -1,0 +1,92 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    color:white;
+    overflow-x: hidden;
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    background: 
+    linear-gradient(
+        180deg,
+        rgb(32, 124, 6) 0%,
+        rgb(36, 207, 39) 30%,
+        rgb(230, 156, 9) 65%,
+        rgb(142, 40, 40) 100%
+    );
+
+}
+
+.Tanjiro {
+
+    width: 300px;
+
+}
+
+.Tanjiro_Nichirin {
+
+    width: 350px;
+
+}
+
+li {
+
+    width: fit-content;
+    margin: 20px auto;
+    text-align: left;
+    font-size: 18px;
+}
+
+.sun {
+
+    color:rgb(228, 26, 26)
+
+}
+
+.water {
+
+    color: darkblue
+
+}
+
+.info {
+
+    color: darkgreen;
+
+}
+
+.blade {
+
+    color:black
+
+}
+
+.ability {
+
+    color:midnightblue
+
+}
+
+h4 {
+
+    font-size: 20px;
+    color:rgb(2, 36, 230)
+
+}
+
+h3 {
+
+    font-size: 22px;
+    color:cornflowerblue;
+
+}
+
+
+h2 {
+
+    color: rgb(188, 34, 34);
+    margin-top: 50px;
+
+}
