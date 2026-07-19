@@ -1,0 +1,122 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    overflow-x: hidden;
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    background: 
+    linear-gradient(
+        180deg,
+        crimson 0%,
+        rgb(87, 83, 83) 30%,
+        purple 65%,
+        rgb(207, 68, 68) 100%
+
+    );
+
+}
+
+h1 {
+
+    color: black;
+
+}
+
+.Genya {
+
+    width:370px;
+
+}
+
+li {
+
+    width: fit-content;
+    margin: 10px auto;
+    text-align: left;
+    font-size: 18px;
+
+}
+
+h2 {
+
+    color: black;
+    margin-top: 50px;
+
+}
+
+h4 {
+
+    font-size: 18px;
+    color: rgb(239, 239, 185);
+
+}
+
+h3 {
+
+    font-size: 20px;
+
+}
+
+.info {
+
+    color:lightgreen ;
+
+}
+
+.breathing {
+
+    color: rgb(94, 38, 38) ;
+
+}
+
+.Genya_Gun {
+
+    width:400px;
+
+}
+
+.sword {
+
+    color: rgb(161, 116, 116) ;
+
+}
+
+.ability {
+
+    color: rgb(176, 85, 0);
+
+}
+
+.battles {
+
+    color: red ;
+
+}
+
+.relation h3 {
+
+    color: rgb(255, 125, 147) ;
+
+}
+
+.relation h4 {
+
+    color:darkorchid ;
+
+}
+
+.Trivia {
+
+    color: blue ;
+
+}
+
+footer {
+
+
+    margin-top: 100px;
+}
