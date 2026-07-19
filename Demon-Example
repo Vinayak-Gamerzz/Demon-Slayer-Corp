@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+
+        <title></title>
+
+        <link rel="stylesheet" href="css">
+
+        <meta charset="UTF-8">
+
+    </head>
+
+    <body>
+
+        <h1></h1>
+
+                                <img src="assets/images/Demons" class="">
+
+                <h3></h3>
+
+                        <p>""</p>
+
+            <h2>About</h2>
+
+                    <h4></h4>
+
+                    <h4></h4>
+
+            <h2></h2>
+
+                <div class="info">
+
+                            <li>Full Name : </li>
+
+                            <li>Japanese Name : </li>
+
+                            <li>Alias : </li>
+
+                            <li>Gender : </li>
+
+                            <li>Race : </li>
+
+                            <li>Age : </li>
+
+                            <li>Hair Color : </li>
+
+                            <li>Eye Color : </li>
+
+                            <li>Occupation : </li>
+
+                            <li>Affilation : </li>
+
+                            <li>Blood Demon Art : </li>
+
+                            <li>Status : </li>
+
+                </div>
+
+            <h2>Appearance</h2>
+
+                    <h4></h4>
+
+                    <h4></h4>
+
+            <h2>Personality</h2>
+
+                    <h4></h4>
+
+                    <h4></h4>
+
+            <h2>Fighting Style</h2>
+
+                    <h4></h4>
+
+                    <h4></h4>
+
+            <h2>Blood Demon Art</h2>
+
+                <h3></h3>
+
+                    <h4></h4>
+
+                <div class="Demon-Art">
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                </div>
+
+            <h2>Abilites</h2>
+
+                <div class="ability">
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                </div>
+
+            <h2>Major Battles</h2>
+
+                <h3></h3>
+
+                <h3></h3>
+
+                <h3></h3>
+
+                <h3></h3>
+
+                <h3></h3>
+
+                <h3></h3>
+
+                <h3></h3>
+
+                <h3></h3>
+
+                <h3></h3>
+
+                <h3></h3>
+
+                <h3></h3>
+
+                <h3></h3>
+
+            <h2>Relationships</h2>
+
+                <h3></h3>
+
+                    <h4></h4>
+
+                <h3></h3>
+
+                    <h4></h4>
+
+                <h3></h3>
+
+                    <h4></h4>
+
+                <h3></h3>
+
+                    <h4></h4>
+
+            <h2>Trivia</h2>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+                            <li></li>
+
+            <h2>Legacy</h2>
+
+                    <h4></h4>
+
+
+            <a href="Demon.html">
+
+                <button>
+
+                    Go to Demons Page =>
+
+                </button>
+
+            </a>
+
+        <footer>
+
+            <h3>""</h3>
+
+        </footer>
+
+    </body>
+
+</html>
