@@ -1,0 +1,99 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    color:white;
+    overflow-x: hidden;
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    background: 
+    linear-gradient(
+        180deg,
+        crimson 0%,
+        black 30%,
+        rgb(194, 117, 198) 65%,
+        purple 100%
+
+    );
+
+}
+
+.Tamayo {
+
+    width: 380px;
+
+}
+
+li {
+
+    width: fit-content;
+    margin: 20px auto;
+    text-align: left;
+    font-size: 18px;
+}
+
+.Demon-Art {
+
+    color: darkblue
+
+}
+
+.info {
+
+    color: darkgreen;
+
+}
+
+.ability {
+
+    color:midnightblue
+
+}
+
+h4 {
+
+    font-size: 18px;
+    color:rgb(2, 36, 230)
+
+}
+
+h3 {
+
+    font-size: 20px;
+    color:rgb(224, 207, 19);
+
+}
+
+
+h2 {
+
+    color: rgb(188, 34, 34);
+    margin-top: 50px;
+
+}
+
+button {
+
+    display: inline-block;
+    text-decoration: none;
+    background:brown;
+    color: white;
+    padding: 20px 35px;
+    border-radius: 20px;
+    transition: .7s;
+
+}
+
+button:hover {
+
+    background: #444;
+
+}
+
+footer {
+
+    margin-top: 100px;
+
+}
