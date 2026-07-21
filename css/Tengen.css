@@ -67,3 +67,20 @@ h2 {
     width: 350px;
 
 }
+
+.back-btn {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+
+    background: rgb(56, 29, 29);
+    color: white;
+    text-decoration: none;
+
+    padding: 12px 22px;
+    border-radius: 12px;
+
+    font-weight: bold;
+    transition: 0.3s;
+    z-index: 1000;
+}
